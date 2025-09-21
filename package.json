@@ -1,0 +1,18 @@
+{
+  "name": "r2-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "dependencies": {
+    "r2-explorer": "^1.1.9"
+  }
+}
